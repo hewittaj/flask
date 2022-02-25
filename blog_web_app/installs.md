@@ -1,5 +1,7 @@
 # Installs
 `pip install flask`
+`pip install wtf` - wt forms
+`pip install email_validator`
 
 # Commands
 - `export FLASK_APP=flask_blog.py` : Environment variable that enables us to just type "flask run" to initialize local server
