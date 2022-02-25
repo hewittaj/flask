@@ -1,8 +1,8 @@
 # Installs within regular terminal
-`pip install flask`
-`pip install wtf` - wt forms
-`pip install email_validator`
-`pip install flask-sqlalchemy`
+- `pip install flask`
+- `pip install wtf` - wt forms
+- `pip install email_validator`
+- `pip install flask-sqlalchemy`
 
 # Commands ran within regular terminal
 - `export FLASK_APP=flask_blog.py` - Environment variable that enables us to just type "flask run" to initialize local server
